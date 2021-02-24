@@ -2,6 +2,12 @@
 
 ![shield](https://img.shields.io/badge/python-2.7%20%7C%203.4%2B-blue)
 
+# Current modification
+
+- 修改部分迭代方式为生成器
+- 修改文件读写方式为异步
+- 其他优化
+
 ## Credit
 
 ### Origin
